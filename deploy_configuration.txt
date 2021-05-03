@@ -75,3 +75,5 @@ Troubleshoot
 - ADD PATH variable for php [C:\xampp\php] & slao check there is no other php path in PATH variable.
 - restart xampp and browse localhost
 
+composer upgrade --no-scripts
+npm i windows-build-tools
